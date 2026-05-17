@@ -1,6 +1,3 @@
-# ml-algorithms-infographic
-A visual field guide to 10 machine learning algorithms
-
 # A Visual Field Guide to Machine Learning
 This repository hosts an infographic that classifies ten foundational machine learning algorithms by **learning paradigm** (supervised vs. unsupervised), **application domain** (tabular, computer vision, NLP, generative AI), and **historical lineage**.
 

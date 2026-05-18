@@ -1,7 +1,7 @@
 # A Visual Field Guide to Machine Learning
 This repository hosts an infographic that classifies ten foundational machine learning algorithms by **learning paradigm** (supervised vs. unsupervised), **application domain** (tabular, computer vision, NLP, generative AI), and **historical lineage**.
 
-🔗 **Live infographic:** [View it here](https://nicoolesy.github.io/ml-algorithms-infographic/ws1_infograph.html)
+🔗 **Live infographic:** [View it here](https://nicoolesy.github.io/ml-algorithms-infographic/index.html)
 
 
 ## The Ten Algorithms

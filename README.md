@@ -57,6 +57,17 @@ This lineage axis matters because it shows the algorithms aren't isolated; each 
 ├── index.html      # The infographic (open in browser or via GitHub Pages)
 └── README.md       # This file
 ```
+---
+
+## AI Use Disclosure
+ 
+In accordance with academic integrity standards, I want to be transparent about how AI was used in creating this artifact:
+ 
+- **Concept, classification decisions, and reflection:** Authored by me, drawing on my coursework and prior knowledge of machine learning.
+- **Visual layout, HTML/CSS formatting, and writing polish:** Created with assistance from **Claude (Anthropic)**. I used Claude to help structure the infographic's visual design, refine the wording of explanations, and produce clean, accessible HTML for hosting on GitHub Pages.
+- **Final review and editorial decisions:** All content was reviewed, edited, and approved by me. I take responsibility for the accuracy of every classification and claim made in this artifact.
+This use of AI is consistent with how professionals in the field increasingly use these tools — as collaborators for drafting, formatting, and polish — while the substantive thinking and final judgment remain my own.
+
 
 ## Author
  
